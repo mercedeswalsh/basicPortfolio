@@ -22,7 +22,19 @@ body {
     float: right;
     padding-top: 60px;
     padding-right: 130px;
+    text-decoration: none;
 }
+
+.headerLinks {
+    text-decoration: none;
+}
+
+.headerLinks:hover {
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
 
 #aboutmeBox {
     background-color: white;
