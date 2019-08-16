@@ -1,0 +1,49 @@
+body {
+    background-color: gainsboro;
+}
+.header {
+    background-color: grey;
+    font-size: 20px;
+    height: 60px;
+    padding-top: 18px;
+    padding-bottom: 90px;
+}
+
+#mynameBox {
+    background-color: mediumpurple;
+    font-size: 300%;
+    float: left;
+    margin-left: 150px;
+    padding: 35px;
+}
+#links {
+    background-color: grey;
+    float: right;
+    padding-top: 60px;
+    padding-right: 160px;
+}
+
+#image1 {
+    height: 200px;
+    width: 200px;
+}
+
+#image2 {
+    height: 200px;
+    width: 200px;
+}
+
+#image3 {
+    height: 200px;
+    width: 200px;
+}
+
+#image4 {
+    height: 200px;
+    width: 200px;
+}
+
+#image5 {
+    height: 200px;
+    width: 200px;
+}
