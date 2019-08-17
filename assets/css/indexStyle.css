@@ -34,8 +34,6 @@ body {
     text-decoration: none;
 }
 
-
-
 #aboutmeBox {
     background-color: white;
     height: 600px;
@@ -69,4 +67,5 @@ img {
     margin-left: 0px;
 }
 
+/* needs footer with copyright text */
 

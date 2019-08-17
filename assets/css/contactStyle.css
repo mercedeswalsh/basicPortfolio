@@ -24,6 +24,15 @@ body {
     padding-right: 130px;
 }
 
+.headerLinks {
+    text-decoration: none;
+}
+
+.headerLinks:hover {
+    font-size: 30px;
+    text-decoration: none;
+}
+
 #contactBox {
     background-color: white;
     height: 600px;
@@ -76,3 +85,5 @@ body {
     font-family: 'Lexend Deca', sans-serif;
     
 }
+
+/* needs footer with copyright text */

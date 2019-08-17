@@ -24,27 +24,58 @@ body {
     padding-right: 130px;
 }
 
-#image1 {
-    height: 200px;
-    width: 200px;
+.headerLinks {
+    text-decoration: none;
 }
 
-#image2 {
-    height: 200px;
-    width: 200px;
+.headerLinks:hover {
+    font-size: 30px;
+    text-decoration: none;
 }
 
-#image3 {
-    height: 200px;
-    width: 200px;
+#portfolioBox {
+    background-color: white;
+    height: 600px;
+    width: 1500px;
+    margin-top: 95px;
+    padding-left: 35px;
+    padding-top: 25px;
+    padding-right: 35px;
+    padding-bottom: 45px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#portfolioTitle {
+    font-size: 45px;
+    padding-bottom: 25px;
+    margin-left: 49px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+#image123 {
+    float: left;
+    display: inline;
+}
+#image123 {
+    float: right;
+    margin-right: 538px;
 }
 
 #image4 {
-    height: 200px;
-    width: 200px;
+    float: right;
+    margin-right: 538px;
 }
 
 #image5 {
-    height: 200px;
-    width: 200px;
+    float: right;
+    margin-right: 538px;
 }
+
+/* needs images resized */
+
+/* needs footer with copyright text */
